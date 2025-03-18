@@ -1,4 +1,4 @@
-## Hi there 👋
+## 은솔이의 깃 허브
 
 <!--
 **yel0732/yel0732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
