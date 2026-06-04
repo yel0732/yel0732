@@ -30,11 +30,3 @@ I'm interested in building web services and improving my backend development ski
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 <br/>
-
-## 📊 GitHub Stats
-
-![Eunsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=yel0732&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yel0732&layout=compact&theme=transparent&hide_border=true)
-
-<br/>
